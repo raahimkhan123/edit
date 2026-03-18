@@ -81,7 +81,12 @@
       ]
     },
     "onlyBuiltDependencies": [
-      "vue-demi"
+      "@parcel/watcher",
+      "@resvg/resvg-js",
+      "esbuild",
+      "sharp",
+      "vue-demi",
+      "workerd"
     ]
   }
 }
